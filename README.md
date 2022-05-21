@@ -42,6 +42,34 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 
 ![image](https://user-images.githubusercontent.com/101801920/169658492-be59622a-0942-4fbc-85ad-f13813a6a702.png)
 
+![image](https://user-images.githubusercontent.com/101801920/169659513-bdf141bf-3720-4b42-810f-d6a2774c4632.png)
+
+<b>Membuat Program CRUD</b>
+
+Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
+
+![image](https://user-images.githubusercontent.com/101801920/169659581-4dedb4bf-c771-4dc8-afb9-3856c3a77f87.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab8_php_database/
+
+![image](https://user-images.githubusercontent.com/101801920/169659649-f0b36899-e086-4866-8db5-3bb4745329a1.png)
+
+<b>Membuat file koneksi database</b>
+
+Buat file baru dengan nama koneksi.php
+
+![image](https://user-images.githubusercontent.com/101801920/169660337-9ed871bd-1d32-443e-bd11-f16a360e7eda.png)
+
+Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
+
+![image](https://user-images.githubusercontent.com/101801920/169660206-f3cfb197-b93e-429a-8286-2e7ec48b7f33.png)
+
+<b>Membuat file index untuk menampilkan data (Read)</b>
+
+Buat file baru dengan nama index.php
+
+
+
 
 
 
