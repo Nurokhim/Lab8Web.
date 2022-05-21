@@ -68,6 +68,11 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 
 Buat file baru dengan nama index.php
 
+![image](https://user-images.githubusercontent.com/101801920/169660866-46837551-5b66-499f-8ed5-a3e5ce18815b.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169660902-ca597aa6-dcca-4312-b30a-fa3c93dc17b0.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169660917-f756b29f-bb02-492f-aac4-7c1aedc9a421.png)
 
 
 
