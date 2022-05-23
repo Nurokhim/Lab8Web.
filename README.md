@@ -74,10 +74,42 @@ Buat file baru dengan nama index.php
 
 ![image](https://user-images.githubusercontent.com/101801920/169660917-f756b29f-bb02-492f-aac4-7c1aedc9a421.png)
 
+<b>Menambah Data (Create)</b>
 
+Buat file baru dengan nama tambah.php
 
+![image](https://user-images.githubusercontent.com/101801920/169795085-d9d20f90-7f27-4f95-b09c-690f57127c9b.png)
 
+![image](https://user-images.githubusercontent.com/101801920/169795240-893ae6f3-f9c4-47ce-87d7-708e5bfc7abd.png)
 
-  
-  
-  
+![image](https://user-images.githubusercontent.com/101801920/169795444-00ff92ae-6752-42a4-8bdc-b826a6cf5baa.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169800544-d997e591-c9e8-4a68-9c61-bf5c832e442d.png)
+
+<b>Mengubah Data (Update)</b>
+
+Buat file baru dengan nama ubah.php
+
+![image](https://user-images.githubusercontent.com/101801920/169800696-c102e2d8-c7c2-43b6-8ae8-274cb9f9a79e.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169800782-e30ad48a-b263-44a2-aea6-82d19ae1e13f.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169800930-688c0c5c-225a-49fb-a7a8-3af001cb2df9.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169801042-042c461a-c4fd-471b-997a-2566b3db6eb3.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169801144-fadb82b5-19c6-42b8-aece-e4c6238977a9.png)
+
+<b>Menghapus Data (Delete)</b>
+
+Buat file baru dengan nama hapus.php
+
+![image](https://user-images.githubusercontent.com/101801920/169801753-7ef115f2-5da0-424b-9057-a03510c427f7.png)
+
+<b>Data sebelum di hapus</b>
+
+![image](https://user-images.githubusercontent.com/101801920/169802346-4864253b-e397-40a7-b060-f6763e2b41e6.png)
+
+<b>Data sesudah di hapus</b>
+
+![image](https://user-images.githubusercontent.com/101801920/169802594-9462e9b5-4e5f-443a-a414-800514f64a41.png)
